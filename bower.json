@@ -1,0 +1,24 @@
+{
+  "name": "ember-cli-soundmanager-shim",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jfranz/ember-cli-soundmanager-shim",
+  "authors": [
+    "Jeremy Franz <jfranz@gmail.com>"
+  ],
+  "description": "An ES6 module shim for soundmanager2",
+  "main": "soundmanager2-shim.js",
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "soundmanager": "V2.97a.20140901"
+  }
+}
