@@ -1,12 +1,12 @@
 ember-cli-soundmanager-shim
 ===========================
 
-ES6 module shim for [SoundManager 2](https://github.com/scottschiller/SoundManager2)
+ES6 module shim for [SoundManager 2](https://github.com/scottschiller/SoundManager2)  with latest version of Sound Manager
 
 ## Usage
 
 ### Install
-`bower install --save ember-cli-soundmanager-shim`
+`bower install --save ember-cli-techsmechs-soundmanager-shim`
 
 ### Import soundmanager dependencies
 ```
