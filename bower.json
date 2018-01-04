@@ -1,5 +1,5 @@
 {
-  "name": "ember-cli-soundmanager-shim",
+  "name": "ember-cli-techsmechs-soundmanager-shim",
   "version": "0.0.2",
   "homepage": "https://github.com/shanekoss/ember-cli-soundmanager-shim",
   "authors": [
@@ -7,7 +7,7 @@
     "Shane Koss <shane@shanekoss.com>"
   ],
   "description": "An ES6 module shim for soundmanager2",
-  "main": "soundmanager2-shim.js",
+  "main": "techsmechs-soundmanager2-shim.js",
   "moduleType": [
     "es6"
   ],
