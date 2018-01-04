@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "homepage": "https://github.com/shanekoss/ember-cli-soundmanager-shim",
   "authors": [
-    "Jeremy Franz <jfranz@gmail.com>"
+    "Jeremy Franz <jfranz@gmail.com>",
     "Shane Koss <shane@shanekoss.com>"
   ],
   "description": "An ES6 module shim for soundmanager2",
