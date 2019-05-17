@@ -13,6 +13,6 @@
   "license": "MIT",
   "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
   "dependencies": {
-    "soundmanager": "sm2-html5only"
+    "soundmanager": "cf9896a4dc17055f232578dd54586704badba665"
   }
 }
