@@ -1,25 +1,18 @@
 {
   "name": "ember-cli-techsmechs-soundmanager-shim",
-  "version": "0.0.2",
-  "homepage": "https://github.com/shanekoss/ember-cli-techsmechs-soundmanager-shim",
+  "version": "0.0.3",
+  "homepage":
+    "https://github.com/shanekoss/ember-cli-techsmechs-soundmanager-shim",
   "authors": [
     "Jeremy Franz <jfranz@gmail.com>",
     "Shane Koss <shane@shanekoss.com>"
   ],
   "description": "An ES6 module shim for soundmanager2",
   "main": "soundmanager2-shim.js",
-  "moduleType": [
-    "es6"
-  ],
+  "moduleType": ["es6"],
   "license": "MIT",
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ],
+  "ignore": ["**/.*", "node_modules", "bower_components", "test", "tests"],
   "dependencies": {
-    "soundmanager": "V2.97a.20170601"
+    "soundmanager": "sm2-html5only"
   }
 }
